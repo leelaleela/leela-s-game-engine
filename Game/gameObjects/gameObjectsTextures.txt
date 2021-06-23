@@ -1,0 +1,71 @@
+hooman
+LEFT_WALK
+250
+true
+* dude_LEFT_WALK1 & images/dude/LEFT_WALK1.png
+* dude_LEFT_WALK2 & images/dude/LEFT_WALK2.png
+* dude_LEFT_WALK3 & images/dude/LEFT_WALK3.png #
+
+hooman
+RIGHT_WALK
+250
+true
+* dude_RIGHT_WALK1 & images/dude/RIGHT_WALK1.png
+* dude_RIGHT_WALK2 & images/dude/RIGHT_WALK2.png
+* dude_RIGHT_WALK3 & images/dude/RIGHT_WALK3.png #
+
+hooman
+UP_WALK
+250
+true
+* dude_UP_WALK1 & images/dude/UP_WALK1.png
+* dude_UP_WALK2 & images/dude/UP_WALK2.png
+* dude_UP_WALK3 & images/dude/UP_WALK3.png #
+
+hooman
+DOWN_WALK
+250
+true
+* dude_DOWN_WALK1 & images/dude/DOWN_WALK1.png
+* dude_DOWN_WALK2 & images/dude/DOWN_WALK2.png
+* dude_DOWN_WALK3 & images/dude/DOWN_WALK3.png #
+
+bipsi
+DANCE
+250
+true
+* bipsi_ANIM1 & images/bipsi/bipsi_ANIM1.png
+* bipsi_ANIM2 & images/bipsi/bipsi_ANIM2.png
+* bipsi_ANIM3 & images/bipsi/bipsi_ANIM3.png #
+
+maria
+LEFT_WALK
+250
+true
+* maria_LEFT_WALK1 & images/maria/LEFT_WALK1.png
+* maria_LEFT_WALK2 & images/maria/LEFT_WALK2.png
+* maria_LEFT_WALK3 & images/maria/LEFT_WALK3.png #
+
+maria
+RIGHT_WALK
+250
+true
+* maria_RIGHT_WALK1 & images/maria/RIGHT_WALK1.png
+* maria_RIGHT_WALK2 & images/maria/RIGHT_WALK2.png
+* maria_RIGHT_WALK3 & images/maria/RIGHT_WALK3.png #
+
+maria
+UP_WALK
+250
+true
+* maria_UP_WALK1 & images/maria/UP_WALK1.png
+* maria_UP_WALK2 & images/maria/UP_WALK2.png
+* maria_UP_WALK3 & images/maria/UP_WALK3.png # 
+
+maria
+DOWN_WALK
+250
+true
+* maria_DOWN_WALK1 & images/maria/DOWN_WALK1.png
+* maria_DOWN_WALK2 & images/maria/DOWN_WALK2.png
+* maria_DOWN_WALK3 & images/maria/DOWN_WALK3.png #

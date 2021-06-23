@@ -1,0 +1,26 @@
+hooman
+Interactible
+80 100
+80 100
+100 100
+true
+true
+false #
+
+bipsi
+Object
+20 70
+20 35
+400 400
+true
+true
+true #
+
+maria
+Interactible
+60 95
+60 95
+150 150
+false
+true
+false #
